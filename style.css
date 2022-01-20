@@ -1,0 +1,39 @@
+body{
+    font-family: Staatliches;
+}
+th {
+     padding: 10px;
+  
+   
+}
+td{
+    
+   padding: 10px;
+   border: 1px solid black; 
+
+}
+table {
+ border: solid black 1px;
+ border-spacing: 0px;
+ margin: auto;
+
+   }
+   #t1{
+       background-color: black;
+       color: white;
+       border: 1px solid white;
+   }
+   #td1{
+       border: solid white 1px;
+   }
+   #t2{
+       background-color: dimgrey;
+       color: ghostwhite;
+   }
+#t3{ 
+    background-color: darkgray;
+}
+#t4{
+    background-color: lightgray;
+    
+}
